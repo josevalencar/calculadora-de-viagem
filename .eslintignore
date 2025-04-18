@@ -1,0 +1,7 @@
+# Ignore all files
+*
+# But not these files
+!.eslintignore
+!package.json
+!tsconfig.json
+!next.config.ts 
